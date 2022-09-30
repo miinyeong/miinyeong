@@ -7,7 +7,7 @@
 
 [![miinyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=miinyeong&show_icons=true&title_color=0047A0&text_color=000000&icon_color=CC303B&bg_color=FFFFFF&)](https://github.com/miinyeong/miinyeong "GitHub stats card Korean flag eddition")
 
-
+### 가짜 개발자 화이팅~~~!
 
 * 열심히 참여하겠습니다.
 - 깃허브 잘하고 싶어요!
