@@ -1,2 +1,2 @@
-[![miinyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=miinyeong&show_icons=true&title_color=0047A0&text_color=000000&icon_color=CC303B&bg_color=FFFFFF&)](https://github.com/miinyeong/miinyeong "GitHub stats card Korean flag eddition")
+[![miinyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=miinyeong&show_icons=true&theme=dracula&title_color=0047A0&text_color=000000&icon_color=CC303B&bg_color=FFFFFF&)](https://github.com/miinyeong/miinyeong "GitHub stats card Korean flag eddition")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miinyeong&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
